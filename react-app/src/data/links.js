@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Lawrence County Government", category: "Government", subcategory: "County", url: "https://lawrencecounty.org/", description: "Official website for Lawrence County - home to commissioners and county departments." },
